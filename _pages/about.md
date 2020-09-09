@@ -9,4 +9,4 @@ as well as working on a project from UC Santa Barbara to combine python, R and C
 while maintaining the ease-of-use of by creating a single package which incorporates python and R interfaces to create
 C++ bindings for statistical and machine learning module.
 
-My primary languages are Python and Java, and I am currently expanding my territory by learning C++ and R.
+My primary languages are Python and Java, and I am currently expanding my territory by learning C++ and R. My works can be seen at my github site.
