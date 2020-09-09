@@ -63,7 +63,7 @@ author:
   bio    : "Recent software engineering graduate from Queen's University, Canada."
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-email"
+      icon: "fas fa-envelope fa-email"
       url: "mailto:davidikhyun@hotmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
