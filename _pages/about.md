@@ -2,7 +2,11 @@
 permalink: /about/
 title: "About"
 ---
+Hey, I'm David Cho!
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a recent software engineering graduate from Queen's University, Kingston, Canada. Currently, I am job searching, 
+as well as working on a project from UC Santa Barbara to combine python, R and C++ to improve the overall efficiency
+while maintaining the ease-of-use of by creating a single package which incorporates python and R interfaces to create
+C++ bindings for statistical and machine learning module.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My primary languages are Python and Java, and I am currently expanding my territory by learning C++ and R.
