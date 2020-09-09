@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "David Cho"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/my photo.jpg"
   bio    : "Recent software engineering graduate from Queen's University, Canada."
   links:
     - label: "Website"
